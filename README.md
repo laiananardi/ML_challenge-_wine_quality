@@ -2,7 +2,7 @@
   :robot: Machine learning challenge - wine quality
 </h1>
 
-## :pencil: Description: 
+## :pencil2: Description: 
 
 - The dataset “Wine Quality” is available in the UCI Machine Learning Repository
 (https://archive.ics.uci.edu/ml/datasets/wine). This dataset contains a set of
