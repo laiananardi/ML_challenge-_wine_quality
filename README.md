@@ -17,3 +17,13 @@ obtained.
 - Comparison and adjustment of classification models.
 
 
+## :memo: Steps:
+
+- [x] Data processing with Pandas
+- [x] Pearson's correlation coefficient
+- [x] sklearn.preprocessing.MinMaxScaler
+- [ ] KNN Algorithm
+- [ ] Decision Tree Algorithm
+- [ ] Random Forest Algorithm
+- [ ] SVM Algorithm
+- [ ] MLP Network Algorithm
