@@ -23,7 +23,7 @@ obtained.
 - [x] Data processing with Pandas
 - [x] Pearson's correlation coefficient
 - [x] sklearn.preprocessing.MinMaxScaler
-- [ ] KNN Algorithm
+- [x] KNN Algorithm
 - [ ] Decision Tree Algorithm
 - [ ] Random Forest Algorithm
 - [ ] SVM Algorithm
