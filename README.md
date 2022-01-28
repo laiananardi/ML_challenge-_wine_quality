@@ -24,7 +24,7 @@ obtained.
 - [x] Pearson's correlation coefficient
 - [x] sklearn.preprocessing.MinMaxScaler
 - [x] KNN Algorithm
-- [ ] Decision Tree Algorithm
-- [ ] Random Forest Algorithm
-- [ ] SVM Algorithm
+- [x] Decision Tree Algorithm
+- [x] Random Forest Algorithm
+- [x] SVM Algorithm
 - [ ] MLP Network Algorithm
