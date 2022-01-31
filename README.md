@@ -27,4 +27,4 @@ obtained.
 - [x] Decision Tree Algorithm
 - [x] Random Forest Algorithm
 - [x] SVM Algorithm
-- [ ] MLP Network Algorithm
+- [x] MLP Network Algorithm
