@@ -24,6 +24,7 @@ obtained.
 - [x] Pearson's correlation coefficient
 - [x] sklearn.preprocessing.MinMaxScaler
 - [x] KNN Algorithm
+- [x] how to select the optimal K value?
 - [x] Decision Tree Algorithm
 - [x] Random Forest Algorithm
 - [x] SVM Algorithm
