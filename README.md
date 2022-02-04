@@ -22,7 +22,6 @@ obtained.
 
 - [x] Data processing with Pandas
 - [x] Pearson's correlation coefficient
-- [x] sklearn.preprocessing.MinMaxScaler
 - [x] KNN Algorithm
 - [x] how to select the optimal K value?
 - [x] Decision Tree Algorithm
